@@ -1,0 +1,12 @@
+# Do not touch
+config-version: 1.1
+
+# Respawn delay.
+respawn-delay: 0
+
+# Whether permissions should be used.
+enable-permissions: false
+
+# These only work if permissions are disabled.
+keep-items: false
+keep-experience: false

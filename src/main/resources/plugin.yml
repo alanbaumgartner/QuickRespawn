@@ -1,0 +1,5 @@
+name: QuickRespawn
+version: ${project.version}
+main: dev.narcos.quickrespawn.QuickRespawn
+api-version: 1.16
+authors: [ Folks, Narcos ]
